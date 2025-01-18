@@ -1,4 +1,4 @@
-# Welcome to Pranali Ramesh Sawant's GitHub Profile 👋✨
+# Hi, I'm Pranali 👋✨
 
 ### About Me 💼
 
