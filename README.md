@@ -1,4 +1,4 @@
-# Hi, I'm Pranali 👋✨
+# Hi, I'm Pranali 👋
 
 ### About Me 💼
 
