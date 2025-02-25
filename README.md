@@ -2,7 +2,7 @@
 
 ### About Me 💼
 
-I am a Data Analyst with over **2 years of experience** specializing in:
+I am a Data Analyst with over **3 years of experience** specializing in:
 - 📊 Statistical analysis
 - 📈 Interactive dashboard development
 - 🗄️ Managing relational databases
