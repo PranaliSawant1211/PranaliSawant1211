@@ -7,7 +7,7 @@ I am a Data Analyst with over **3 years of experience** specializing in:
 - 📈 Interactive dashboard development
 - 🗄️ Managing relational databases
 
-I bring expertise in Python, SQL, Google Analytics, AWS, Tableau, and Excel. My core focus lies in **data storytelling, predictive modeling, A/B testing**, and **workflow automation** to support scalable and insightful business decisions.
+I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake, Airflow, BigQuery, AWS and Excel. My core focus lies in **data storytelling, predictive modeling, A/B testing**, and **workflow automation** to support scalable and insightful business decisions.
 
 ### Skills 🛠️
 - **Programming Languages:** SQL, Python, R, Java  
