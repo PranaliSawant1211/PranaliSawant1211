@@ -44,6 +44,5 @@ I bring expertise in Python, SQL, Google Analytics, AWS, Tableau, and Excel. My 
 ### Let's Connect 🤝
 
 - **LinkedIn:** [Pranali Sawant](https://www.linkedin.com/in/pranali-sawant-b99527206/)  
-- **Portfolio:** [My Portfolio](https://pranalisawant1211.github.io/)  
 
 Feel free to explore my repositories and reach out for collaborations or opportunities! 🌟
