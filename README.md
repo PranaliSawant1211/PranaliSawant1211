@@ -27,7 +27,7 @@ I bring expertise in Python, SQL, Google Analytics, AWS, Tableau, and Excel. My 
   🎵 Built a Convolutional Neural Network to classify emotional states and generate emotion-driven music playlists with LSTM models.  
 
 - **[COVID Stream](https://github.com/PranaliSawant1211/COVID-STREAM-End-to-End-ETL-pipeline)**  
-  🦠 Designed an ETL pipeline to process 12M+ records, integrated into AWS Redshift for real-time analytics, and built a dimensional data model for scalability.  
+  🦠 Designed an ETL pipeline to process 3M+ records, integrated into AWS Redshift for real-time analytics, and built a dimensional data model for scalability.  
 
 ---
 
