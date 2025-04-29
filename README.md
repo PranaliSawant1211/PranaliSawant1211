@@ -11,10 +11,12 @@ I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake
 
 ### Skills 
 - **Programming Languages:** SQL, Python, R, Java  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Snowflake, Oracle, Azure SQL  
+- **Databases:** Snowflake, Apache Airflow, SQL server, Google BigQuery, DBT, AWS (Redshift, EC2, CloudWatch, Glue, S3), Oracle, Teradata  
 - **Visualization Tools:** Tableau, Power BI, Google Analytics, Adobe Analytics  
-- **Cloud Platforms:** AWS (Glue, Redshift, S3), GCP (Big Query)  
-- **Certifications:** Google Data Analytics Professional Certificate (2025)  
+- **Analytical Tools:** Microsoft Excel, Microsoft PowerPoint, GitHub, SAS, Jupyter Notebook
+- **Machine Learning and AI:** Regression (Linear, Logistic), Classification (Decision Trees, Random forest), NLP, Neural Networks
+  
+- **Certifications:** Google Data Analytics Professional Certificate (2025)
 
 ---
 
