@@ -9,12 +9,12 @@ I am a Data Analyst with over **4 years of experience** specializing in:
 
 I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake, Airflow, BigQuery, AWS and Excel. My core focus lies in **data storytelling, predictive modeling, A/B testing**, and **workflow automation** to support scalable and insightful business decisions.
 
-### Skills 🛠️
+### Skills 
 - **Programming Languages:** SQL, Python, R, Java  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Snowflake, Oracle, Azure SQL  
 - **Visualization Tools:** Tableau, Power BI, Google Analytics, Adobe Analytics  
 - **Cloud Platforms:** AWS (Glue, Redshift, S3), GCP (Big Query)  
-- **Certifications:** 🎓 Google Data Analytics Professional Certificate (2025)  
+- **Certifications:** Google Data Analytics Professional Certificate (2025)  
 
 ---
 
