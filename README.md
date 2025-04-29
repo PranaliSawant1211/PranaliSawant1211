@@ -18,7 +18,7 @@ I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake
 
 ---
 
-### Projects 🚀
+### Projects
 
 - **[Churn Shield](https://github.com/PranaliSawant1211/Customer-Churn-Analysis)**  
     Developed a Churn prediction model using Gradient Boost and SMOTEENN for class balancing. Visualized metrics with Power BI to strategize customer retention.  
