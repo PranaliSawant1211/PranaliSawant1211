@@ -33,16 +33,12 @@ I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake
 
 ### GitHub Stats
 
-![Pranali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranaliSawant1211&theme=light)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranaliSawant1211&layout=compact&theme=light)  
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=PranaliSawant1211&color=brightgreen)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranaliSawant1211&layout=compact&theme=light) 
 
 ---
 
-### Let's Connect 🤝
+### Let's Connect
 
 - **LinkedIn:** [Pranali Sawant](https://www.linkedin.com/in/pranali-sawant-b99527206/)  
 
-Feel free to explore my repositories and reach out for collaborations or opportunities! 🌟
+Feel free to explore my repositories and reach out for collaborations or opportunities!
