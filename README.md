@@ -1,11 +1,11 @@
-# Hi, I'm Pranali 👋
+# Hi, I'm Pranali
 
-### About Me 💼
+### About Me
 
 I am a Data Analyst with over **3 years of experience** specializing in:
-- 📊 Statistical analysis
-- 📈 Interactive dashboard development
-- 🗄️ Managing relational databases
+- Statistical analysis
+- Interactive dashboard development
+- Managing relational databases
 
 I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake, Airflow, BigQuery, AWS and Excel. My core focus lies in **data storytelling, predictive modeling, A/B testing**, and **workflow automation** to support scalable and insightful business decisions.
 
@@ -21,17 +21,17 @@ I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake
 ### Projects 🚀
 
 - **[Churn Shield](https://github.com/PranaliSawant1211/Customer-Churn-Analysis)**  
-  🛡️ Developed a Churn prediction model using Gradient Boost and SMOTEENN for class balancing. Visualized metrics with Power BI to strategize customer retention.  
+    Developed a Churn prediction model using Gradient Boost and SMOTEENN for class balancing. Visualized metrics with Power BI to strategize customer retention.  
 
 - **[Mood Sync](https://github.com/PranaliSawant1211/Mood_Based_Music_Player_DeepLearning_Project)**  
-  🎵 Built a Convolutional Neural Network to classify emotional states and generate emotion-driven music playlists with LSTM models.  
+    Built a Convolutional Neural Network to classify emotional states and generate emotion-driven music playlists with LSTM models.  
 
 - **[COVID Stream](https://github.com/PranaliSawant1211/COVID-STREAM-End-to-End-ETL-pipeline)**  
-  🦠 Designed an ETL pipeline to process 3M+ records, integrated into AWS Redshift for real-time analytics, and built a dimensional data model for scalability.  
+    Designed an ETL pipeline to process 3M+ records, integrated into AWS Redshift for real-time analytics, and built a dimensional data model for scalability.  
 
 ---
 
-### GitHub Stats 📊
+### GitHub Stats
 
 ![Pranali's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranaliSawant1211&theme=light)  
 
