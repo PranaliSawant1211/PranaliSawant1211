@@ -2,19 +2,21 @@
 
 ### About Me
 
-I am a Data Analyst with over **4 years of experience** specializing in:
+I am a Data Analyst with over **3 years of experience** specializing in:
 - Statistical analysis
 - Interactive dashboard development
 - Managing relational databases
+- Building ETL pipelines
 
-I bring expertise in Python, SQL, Tableau, Power BI, Google Analytics, Snowflake, Airflow, BigQuery, AWS and Excel. My core focus lies in **data storytelling, predictive modeling, A/B testing**, and **workflow automation** to support scalable and insightful business decisions.
+I bring expertise in Python, SQL, Tableau, Power BI, Snowflake, AWS and Excel. My core focus lies in **data storytelling, automating reporting processes, **predictive modeling**, and **data governance** to support scalable and insightful business decisions.
 
 ### Skills 
-- **Programming Languages:** SQL, Python, R, Java  
-- **Databases:** Snowflake, Apache Airflow, SQL server, Google BigQuery, DBT, AWS (Redshift, EC2, CloudWatch, Glue, S3), Oracle, Teradata  
-- **Visualization Tools:** Tableau, Power BI, Google Analytics, Adobe Analytics  
-- **Analytical Tools:** Microsoft Excel, Microsoft PowerPoint, GitHub, SAS, Jupyter Notebook
+- **Programming Languages:** SQL, Python (pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow), R, Java
+- **Data Analytics & Visualization:** Power BI, Tableau, MS Excel (VBA, macros, pivot tables), DAX, Power Query
+- **Data Warehousing & Database Management:** Snowflake, dbt, SQL Server, MySQL, PostgreSQL, Azure SQL  
+- **Cloud Platforms:** AWS (S3, Redshift, Lambda), Databricks, Alteryx, Talend
 - **Machine Learning and AI:** Regression (Linear, Logistic), Classification (Decision Trees, Random forest), NLP, Neural Networks
+- **Tools:** Jira, Confluence, Microsoft PowerPoint, Microsoft Office, VS Code, Jupyter Notebook
   
 - **Certifications:** Google Data Analytics Professional Certificate (2025)
 
