@@ -15,8 +15,8 @@ I bring expertise in Python, SQL, Tableau, Power BI, Snowflake, AWS and Excel. M
 - **Data Analytics & Visualization:** Power BI, Tableau, MS Excel (VBA, macros, pivot tables), DAX, Power Query
 - **Data Warehousing & Database Management:** Snowflake, dbt, SQL Server, MySQL, PostgreSQL, Azure SQL  
 - **Cloud Platforms:** AWS (S3, Redshift, Lambda), Databricks, Alteryx, Talend
-- **Machine Learning and AI:** Regression (Linear, Logistic), Classification (Decision Trees, Random forest), NLP, Neural Networks
-- **Tools:** Jira, Confluence, Microsoft PowerPoint, Microsoft Office, VS Code, Jupyter Notebook
+- **Machine Learning and AI:** Regression, Classification, NLP, Copilot, LLMs
+- **Tools:** GitHub, Jira, Confluence, Microsoft PowerPoint, Microsoft Office, VS Code, Jupyter Notebook
   
 - **Certifications:** Google Data Analytics Professional Certificate (2025)
 
