@@ -8,7 +8,7 @@ I am a Data Analyst with over **3 years of experience** specializing in:
 - Managing relational databases
 - Building ETL pipelines
 
-I bring expertise in Python, SQL, Tableau, Power BI, Snowflake, AWS and Excel. My core focus lies in **data storytelling, automating reporting processes, **predictive modeling**, and **data governance** to support scalable and insightful business decisions.
+I bring expertise in Python, SQL, Tableau, Power BI, Snowflake, AWS and Excel. My core focus lies in **data storytelling**, **automating reporting processes**, **predictive modeling**, and **data governance** to support scalable and insightful business decisions.
 
 ### Skills 
 - **Programming Languages:** SQL, Python (pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow), R, Java
